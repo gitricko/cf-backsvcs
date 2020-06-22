@@ -1,2 +1,2 @@
-# cfrabbit
-CF Rabbit
+# cf-backsvcs
+CF Container Backing Services
