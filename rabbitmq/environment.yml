@@ -1,0 +1,7 @@
+name: cfrabbit
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pip=20.0.2
+  - rabbitmq-server=3.7.16
